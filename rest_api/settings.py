@@ -53,7 +53,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-CORS_ORIGIN_WHITE_LIST = [
+CORS_ORIGIN_WHITELIST = [
     'http://localhost:3000',
 ]
 
